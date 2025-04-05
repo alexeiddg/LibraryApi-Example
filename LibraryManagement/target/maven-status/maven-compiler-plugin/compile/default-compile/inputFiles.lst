@@ -1,4 +1,7 @@
-/Users/adolfoarroyo/Documents/Tecmx/sexto semestre/Web/srcweb/LibraryManagement/src/main/java/com/example/library/controller/BookController.java
-/Users/adolfoarroyo/Documents/Tecmx/sexto semestre/Web/srcweb/LibraryManagement/src/main/java/com/example/library/model/Book.java
-/Users/adolfoarroyo/Documents/Tecmx/sexto semestre/Web/srcweb/LibraryManagement/src/main/java/com/example/library/LibraryApplication.java
-/Users/adolfoarroyo/Documents/Tecmx/sexto semestre/Web/srcweb/LibraryManagement/src/main/java/com/example/library/repository/BookRepository.java
+/Users/alexeidelgado/IdeaProjects/LibraryApi/LibraryManagement/src/main/java/com/example/library/model/Patron.java
+/Users/alexeidelgado/IdeaProjects/LibraryApi/LibraryManagement/src/main/java/com/example/library/controller/PatronController.java
+/Users/alexeidelgado/IdeaProjects/LibraryApi/LibraryManagement/src/main/java/com/example/library/controller/BookController.java
+/Users/alexeidelgado/IdeaProjects/LibraryApi/LibraryManagement/src/main/java/com/example/library/repository/BookRepository.java
+/Users/alexeidelgado/IdeaProjects/LibraryApi/LibraryManagement/src/main/java/com/example/library/repository/PatronsRepository.java
+/Users/alexeidelgado/IdeaProjects/LibraryApi/LibraryManagement/src/main/java/com/example/library/LibraryApplication.java
+/Users/alexeidelgado/IdeaProjects/LibraryApi/LibraryManagement/src/main/java/com/example/library/model/Book.java
